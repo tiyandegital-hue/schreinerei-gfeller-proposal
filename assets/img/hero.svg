@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="Werkstattzeichnung">
+<rect width="1200" height="800" fill="#1E2F24"/>
+<rect x="14" y="14" width="1172" height="772" fill="none" stroke="#E9EDE6" stroke-width="1" opacity="0.35"/>
+
+<polyline points="188,226 325,229 462,231 600,231 737,231 874,225 1012,227" fill="none" stroke="#B07A3B" stroke-width="1" opacity="0.45"/><polyline points="188,306 325,309 462,312 600,309 737,309 874,311 1012,309" fill="none" stroke="#B07A3B" stroke-width="1" opacity="0.45"/><polyline points="188,393 325,388 462,387 600,390 737,387 874,393 1012,390" fill="none" stroke="#B07A3B" stroke-width="1" opacity="0.45"/><polyline points="188,471 325,472 462,474 600,474 737,468 874,473 1012,471" fill="none" stroke="#B07A3B" stroke-width="1" opacity="0.45"/><polyline points="188,551 325,554 462,555 600,550 737,553 874,549 1012,551" fill="none" stroke="#B07A3B" stroke-width="1" opacity="0.45"/>
+<rect x="180" y="220" width="840" height="340" fill="none" stroke="#E9EDE6" stroke-width="2"/>
+<line x1="180" y1="330" x2="1020" y2="330" stroke="#E9EDE6" stroke-width="1.5"/>
+<line x1="460" y1="220" x2="460" y2="560" stroke="#E9EDE6" stroke-width="1.5"/>
+<line x1="740" y1="220" x2="740" y2="560" stroke="#E9EDE6" stroke-width="1.5"/>
+<rect x="500" y="380" width="200" height="120" fill="none" stroke="#B07A3B" stroke-width="2"/>
+<circle cx="600" cy="440" r="26" fill="none" stroke="#B07A3B" stroke-width="2"/>
+<line x1="600" y1="414" x2="600" y2="466" stroke="#B07A3B" stroke-width="2"/>
+<line x1="574" y1="440" x2="626" y2="440" stroke="#B07A3B" stroke-width="2"/>
+<rect x="220" y="250" width="180" height="50" fill="none" stroke="#E9EDE6" stroke-width="1"/>
+<rect x="220" y="360" width="180" height="160" fill="none" stroke="#E9EDE6" stroke-width="1"/>
+<rect x="800" y="250" width="180" height="50" fill="none" stroke="#E9EDE6" stroke-width="1"/>
+<rect x="800" y="360" width="180" height="160" fill="none" stroke="#E9EDE6" stroke-width="1"/>
+<line x1="180" y1="560" x2="1020" y2="560" stroke="#B07A3B" stroke-width="6"/>
+<g stroke="#9FB0A4" stroke-width="1"><line x1="180" y1="180" x2="1020" y2="180"/><line x1="180" y1="175" x2="180" y2="185"/><line x1="1020" y1="175" x2="1020" y2="185"/></g><text x="600" y="170" fill="#9FB0A4" font-family="monospace" font-size="15" text-anchor="middle">B: 3200 MM</text>
+<g stroke="#9FB0A4" stroke-width="1"><line x1="1060" y1="220" x2="1060" y2="560"/><line x1="1055" y1="220" x2="1065" y2="220"/><line x1="1055" y1="560" x2="1065" y2="560"/></g><text x="1072" y="390" fill="#9FB0A4" font-family="monospace" font-size="15">H: 760 MM</text>
+<text x="60" y="740" fill="#E9EDE6" font-family="monospace" font-size="18">DIM: 3200 × 900 MM · EICHE MASSIV · NATURGEÖLT</text>
+<rect x="60" y="690" width="14" height="14" fill="#FF8A00"/><text x="84" y="703" fill="#FF8A00" font-family="monospace" font-size="16">PLANUNG: MASSIVHOLZ-TISCH</text>
+</svg>

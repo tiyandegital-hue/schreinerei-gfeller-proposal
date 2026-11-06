@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-label="Werkstattzeichnung">
+<rect width="1200" height="700" fill="#1E2F24"/>
+<rect x="14" y="14" width="1172" height="672" fill="none" stroke="#E9EDE6" stroke-width="1" opacity="0.35"/>
+
+<polyline points="148,191 298,191 449,185 600,185 750,185 901,187 1052,191" fill="none" stroke="#B07A3B" stroke-width="1" opacity="0.45"/><polyline points="148,257 298,261 449,262 600,261 750,262 901,258 1052,258" fill="none" stroke="#B07A3B" stroke-width="1" opacity="0.45"/><polyline points="148,331 298,328 449,331 600,327 750,331 901,332 1052,328" fill="none" stroke="#B07A3B" stroke-width="1" opacity="0.45"/><polyline points="148,401 298,403 449,401 600,404 750,403 901,404 1052,402" fill="none" stroke="#B07A3B" stroke-width="1" opacity="0.45"/><polyline points="148,471 298,473 449,472 600,473 750,471 901,469 1052,475" fill="none" stroke="#B07A3B" stroke-width="1" opacity="0.45"/>
+<rect x="140" y="180" width="920" height="300" fill="none" stroke="#E9EDE6" stroke-width="2"/>
+<line x1="140" y1="300" x2="1060" y2="300" stroke="#E9EDE6" stroke-width="1.5"/>
+<line x1="380" y1="180" x2="380" y2="480" stroke="#E9EDE6" stroke-width="1.5"/>
+<line x1="700" y1="180" x2="700" y2="480" stroke="#E9EDE6" stroke-width="1.5"/>
+<rect x="420" y="330" width="240" height="110" fill="none" stroke="#B07A3B" stroke-width="2"/>
+<rect x="180" y="210" width="160" height="60" fill="none" stroke="#E9EDE6" stroke-width="1"/>
+<rect x="740" y="210" width="280" height="60" fill="none" stroke="#E9EDE6" stroke-width="1"/>
+<line x1="140" y1="480" x2="1060" y2="480" stroke="#B07A3B" stroke-width="6"/>
+<g stroke="#9FB0A4" stroke-width="1"><line x1="140" y1="140" x2="1060" y2="140"/><line x1="140" y1="135" x2="140" y2="145"/><line x1="1060" y1="135" x2="1060" y2="145"/></g><text x="600" y="130" fill="#9FB0A4" font-family="monospace" font-size="15" text-anchor="middle">LICHTMASS SCHRANKZONE: 3840 MM</text>
+<text x="60" y="620" fill="#E9EDE6" font-family="monospace" font-size="18">WERKSTATT-KORPUS // MASSGESCHREINERT</text>
+<rect x="60" y="580" width="14" height="14" fill="#B07A3B"/><text x="84" y="593" fill="#E9EDE6" font-family="monospace" font-size="16">EICHE · NATURGEÖLT</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-label="Werkstattzeichnung">
+<rect width="1000" height="700" fill="#1E2F24"/>
+<rect x="14" y="14" width="972" height="672" fill="none" stroke="#E9EDE6" stroke-width="1" opacity="0.35"/>
+
+<path d="M120 520 L300 380 L520 420 L760 240 L900 300" fill="none" stroke="#E9EDE6" stroke-width="2"/>
+<path d="M120 520 L300 380" stroke="#B07A3B" stroke-width="3"/>
+<circle cx="300" cy="380" r="10" fill="#FF8A00"/>
+<text x="330" y="370" fill="#E9EDE6" font-family="monospace" font-size="17">NIEDERSCHERLI</text>
+<circle cx="760" cy="240" r="8" fill="#E9EDE6"/>
+<text x="700" y="210" fill="#E9EDE6" font-family="monospace" font-size="17">BERN</text>
+<circle cx="520" cy="420" r="8" fill="#E9EDE6"/>
+<text x="470" y="460" fill="#E9EDE6" font-family="monospace" font-size="17">KÖNIZ</text>
+<text x="60" y="650" fill="#E9EDE6" font-family="monospace" font-size="18">BERNER MITTELLAND · SCHWARZENBURGERLAND</text>
+</svg>

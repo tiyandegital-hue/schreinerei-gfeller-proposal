@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-label="Werkstattzeichnung">
+<rect width="1000" height="700" fill="#1E2F24"/>
+<rect x="14" y="14" width="972" height="672" fill="none" stroke="#E9EDE6" stroke-width="1" opacity="0.35"/>
+
+<rect x="300" y="120" width="400" height="460" fill="none" stroke="#E9EDE6" stroke-width="2"/>
+<line x1="500" y1="120" x2="500" y2="580" stroke="#E9EDE6" stroke-width="1.5"/>
+<line x1="300" y1="350" x2="700" y2="350" stroke="#E9EDE6" stroke-width="1.5"/>
+<rect x="330" y="150" width="140" height="170" fill="none" stroke="#E9EDE6" stroke-width="1"/>
+<rect x="530" y="150" width="140" height="170" fill="none" stroke="#E9EDE6" stroke-width="1"/>
+<rect x="330" y="380" width="140" height="170" fill="none" stroke="#E9EDE6" stroke-width="1"/>
+<rect x="530" y="380" width="140" height="170" fill="none" stroke="#E9EDE6" stroke-width="1"/>
+<line x1="470" y1="350" x2="470" y2="420" stroke="#B07A3B" stroke-width="3"/>
+<line x1="530" y1="350" x2="530" y2="420" stroke="#B07A3B" stroke-width="3"/>
+<g stroke="#9FB0A4" stroke-width="1"><line x1="300" y1="80" x2="700" y2="80"/><line x1="300" y1="75" x2="300" y2="85"/><line x1="700" y1="75" x2="700" y2="85"/></g><text x="500" y="70" fill="#9FB0A4" font-family="monospace" font-size="15" text-anchor="middle">B: 1400 MM</text>
+<g stroke="#9FB0A4" stroke-width="1"><line x1="740" y1="120" x2="740" y2="580"/><line x1="735" y1="120" x2="745" y2="120"/><line x1="735" y1="580" x2="745" y2="580"/></g><text x="752" y="350" fill="#9FB0A4" font-family="monospace" font-size="15">H: 2100 MM</text>
+<text x="60" y="650" fill="#E9EDE6" font-family="monospace" font-size="18">HOLZ-METALL · 3-FACH ISOLIERGLAS</text>
+</svg>

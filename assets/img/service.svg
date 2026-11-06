@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-label="Werkstattzeichnung">
+<rect width="1000" height="700" fill="#1E2F24"/>
+<rect x="14" y="14" width="972" height="672" fill="none" stroke="#E9EDE6" stroke-width="1" opacity="0.35"/>
+
+<rect x="220" y="160" width="560" height="380" fill="none" stroke="#E9EDE6" stroke-width="2"/>
+<circle cx="500" cy="350" r="110" fill="none" stroke="#E9EDE6" stroke-width="2"/>
+<circle cx="500" cy="350" r="70" fill="none" stroke="#B07A3B" stroke-width="2"/>
+<circle cx="500" cy="350" r="14" fill="#B07A3B"/>
+<line x1="500" y1="240" x2="500" y2="280" stroke="#E9EDE6" stroke-width="2"/>
+<line x1="500" y1="420" x2="500" y2="460" stroke="#E9EDE6" stroke-width="2"/>
+<line x1="390" y1="350" x2="430" y2="350" stroke="#E9EDE6" stroke-width="2"/>
+<line x1="570" y1="350" x2="610" y2="350" stroke="#E9EDE6" stroke-width="2"/>
+<rect x="260" y="200" width="90" height="26" fill="none" stroke="#E9EDE6" stroke-width="1"/>
+<rect x="650" y="480" width="90" height="26" fill="none" stroke="#E9EDE6" stroke-width="1"/>
+<text x="60" y="620" fill="#E9EDE6" font-family="monospace" font-size="18">SCHARNIER · BAND · DICHTUNG — JUSTIERT & ERSETZT</text>
+</svg>
